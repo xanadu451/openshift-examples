@@ -1,1 +1,1 @@
-Github repo to run through some example for the Openshift Online
+Github repo to run through some examples for the Openshift Online
